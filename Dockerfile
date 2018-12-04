@@ -1,1 +1,1 @@
-FROM sentry:8.19
+FROM sentry:9.0
